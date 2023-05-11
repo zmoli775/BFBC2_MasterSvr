@@ -1,4 +1,5 @@
 # BFBC2_MasterSvr
-## By:Zmoli775@qq.com
-### SourceCode:Check out the “Master” branch
+#### Zmoli775@qq.com 
+### SourceCode：CheckOut “Master” branch
+### 源码：请查看“Master”分支
 
