@@ -1,4 +1,4 @@
-# BFBC2_MasterSvr
+# BFBC2_MasterSvr 【Battlefield:Bad Company 2】 Emu Server
 #### Zmoli775@qq.com 
 #### SourceCode：CheckOut “Master” branch
 ### 源码：请查看“Master”分支
