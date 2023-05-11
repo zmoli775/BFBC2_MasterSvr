@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+.idea/
+.vs/
+.git/
+obj/
+bin/
+Debug/
+Release/
+Other/
